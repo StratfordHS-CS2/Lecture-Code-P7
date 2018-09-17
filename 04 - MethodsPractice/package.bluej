@@ -1,3 +1,32 @@
 #BlueJ package file
-#Fri Sep 07 13:32:47 CDT 2018
+editor.fx.0.height=846
+editor.fx.0.width=1072
+editor.fx.0.x=-32000
+editor.fx.0.y=-32000
+objectbench.height=95
+objectbench.width=348
+package.divider.horizontal=0.6362007168458781
+package.divider.vertical=0.7026239067055393
+package.editor.height=234
+package.editor.width=464
+package.editor.x=-32000
+package.editor.y=-32000
+package.frame.height=443
+package.frame.width=594
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
 project.charset=UTF-8
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=50
+target1.name=Cat
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=70
+target1.y=10
